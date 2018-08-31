@@ -1,0 +1,20 @@
+{
+  "name": "chirp-webassembly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "engines": {
+    "node": "8.9.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pirumpi/chirp-webassembly.git"
+  },
+  "author": "pirumpi",
+  "license": "UNLICENSED",
+  "dependencies": {
+    
+  }
+}
